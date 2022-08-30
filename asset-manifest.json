@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/atmos/static/css/main.3602041a.css",
-    "main.js": "/atmos/static/js/main.447b80c6.js",
-    "index.html": "/atmos/index.html",
-    "main.3602041a.css.map": "/atmos/static/css/main.3602041a.css.map",
-    "main.447b80c6.js.map": "/atmos/static/js/main.447b80c6.js.map"
+    "main.css": "/ATMOS/static/css/main.3602041a.css",
+    "main.js": "/ATMOS/static/js/main.447b80c6.js",
+    "index.html": "/ATMOS/index.html",
+    "main.3602041a.css.map": "/ATMOS/static/css/main.3602041a.css.map",
+    "main.447b80c6.js.map": "/ATMOS/static/js/main.447b80c6.js.map"
   },
   "entrypoints": [
     "static/css/main.3602041a.css",
