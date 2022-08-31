@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ATMOS - Air Quality Index Tracker
 
 === OVERVIEW ===
 
